@@ -14,4 +14,4 @@ Classify different datasets wth keras. Perform the needed pre-processing steps f
 8. Included comments as needed.
 9. For each model, add a cell that describes the process you followed to design, and improve the model.
 
-**Deadline:** 18/02/2019 16:00 hrs
+**Deadline:** 20/02/2019 23:59 hrs
